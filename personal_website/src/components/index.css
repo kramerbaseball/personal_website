@@ -32,3 +32,11 @@ body, html {
     letter-spacing: 15px;
     line-height: 55px;
   }
+
+  .about-me {
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: white;
+    width: 80%;
+    text-align: center;
+  }

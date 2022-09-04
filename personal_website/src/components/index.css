@@ -29,14 +29,29 @@ body, html {
     width: 80%;
     padding: 20px;
     text-align: center;
-    letter-spacing: 15px;
+    letter-spacing: 10px;
     line-height: 55px;
+    font-size: 175%;
   }
 
   .about-me {
     margin: 0 auto;
     margin-top: 30px;
-    background-color: white;
     width: 60%;
     text-align: center;
+    min-height: 100%;
+  }
+
+  footer {
+    text-align: center;
+    background-color: #00274C;
+    color: white;
+  }
+
+  .footer-links {
+    padding-top: 10px;
+  }
+
+  .footer-copyright {
+    padding-bottom: 10px;
   }
